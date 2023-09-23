@@ -1,7 +1,5 @@
 ## Sentiment Analysis of Restaurant Reviews
 
-![Alt text](http://www.clarabridge.com/wp-content/uploads/2016/10/Sentiment.jpg)
-
 For Sentiment Analysis following are languages/ tools are used
 
   - Python
